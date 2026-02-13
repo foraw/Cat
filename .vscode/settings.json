@@ -2,5 +2,16 @@
 	"cSpell.language": "en,ru",
 	"editor.fontSize": 16,
 	"editor.renderWhitespace": "all",
-	"editor.tabSize": 3
+	"editor.tabSize": 3,
+	"scm.alwaysShowRepositories": true,
+	"scm.alwaysShowActions": false,
+	"scm.autoReveal": true,
+	"scm.countBadge": "all",
+	"scm.defaultViewMode": "list",
+	"scm.defaultViewSortKey": "path",
+	"scm.showActionButton": true,
+	"scm.showChangesSummary": true,
+	"scm.showIncomingChanges": "auto",
+	"scm.showInputActionButton": true,
+	"git.autoRepositoryDetection": true
 }
