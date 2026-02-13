@@ -13,5 +13,5 @@
 	"scm.showChangesSummary": true,
 	"scm.showIncomingChanges": "auto",
 	"scm.showInputActionButton": true,
-	"git.autoRepositoryDetection": true
+	"git.autoRepositoryDetection": false
 }
